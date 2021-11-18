@@ -16,6 +16,7 @@
   <exec_depend>pcl_ros</exec_depend>
   <exec_depend>roscpp</exec_depend>
   <depend>libpcl-all-dev</depend>
+  <depend>costmap_converter</depend>
 
   <export></export>
 </package>
